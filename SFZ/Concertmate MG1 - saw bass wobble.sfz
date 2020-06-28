@@ -1,0 +1,114 @@
+// this file was generated from Concertmate MG1 - saw bass wobble.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102222934_c17f0000.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102222950_c#17f0000.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223006_d17f0000.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223023_d#17f0000.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223039_e17f0000.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223054_f17f0000.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223111_f#17f0000.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223126_g17f0000.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223142_g#17f0000.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223158_a17f0000.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223214_a#17f0000.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223230_b17f0000.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223246_c27f0000.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223303_c#27f0000.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223319_d27f0000.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223335_d#27f0000.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223351_e27f0000.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223407_f27f0000.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223423_f#27f0000.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223439_g27f0000.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223455_g#27f0000.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223512_a27f0000.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223528_a#27f0000.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223545_b27f0000.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223601_c37f0000.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223617_c#37f0000.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223634_d37f0000.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223650_d#37f0000.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223706_e37f0000.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223722_f37f0000.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223738_f#37f0000.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223755_g37f0000.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223811_g#37f0000.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223827_a37f0000.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223843_a#37f0000.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223900_b37f0000.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223916_c47f0000.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223932_c#47f0000.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102223948_d47f0000.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224004_d#47f0000.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224022_e47f0000.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224043_f47f0000.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224103_f#47f0000.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224124_g47f0000.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224144_g#47f0000.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224204_a47f0000.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224225_a#47f0000.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224246_b47f0000.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224308_c57f0000.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224329_c#57f0000.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224347_d57f0000.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224405_d#57f0000.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224424_e57f0000.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224442_f57f0000.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224500_f#57f0000.wav
+<group>lokey=91 hikey=127 pitch_keycenter=91 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - saw bass wobble-SAMPLES/20091102224518_g57f0000.wav

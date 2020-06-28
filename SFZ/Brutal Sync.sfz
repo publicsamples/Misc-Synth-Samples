@@ -1,0 +1,4 @@
+// this file was generated from Brutal Sync.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=11 hikey=126 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Brutal Sync-SAMPLES/Brutal Sync-48-127.aif

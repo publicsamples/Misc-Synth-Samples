@@ -1,0 +1,100 @@
+// this file was generated from JP4K3Combo.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=11 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 loop_mode=loop_sustain loop_start=335704 loop_end=366362 sample=../Audio/JP4K3Combo/JP4K3Combo-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 loop_mode=loop_sustain loop_start=330369 loop_end=361188 sample=../Audio/JP4K3Combo/JP4K3Combo-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 end=592259 loop_mode=loop_sustain loop_start=265004 loop_end=296471 sample=../Audio/JP4K3Combo/JP4K3Combo-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 end=592106 loop_mode=loop_sustain loop_start=265927 loop_end=361750 sample=../Audio/JP4K3Combo/JP4K3Combo-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1279 loop_mode=loop_sustain loop_start=300797 loop_end=364264 sample=../Audio/JP4K3Combo/JP4K3Combo-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1279 loop_mode=loop_sustain loop_start=295791 loop_end=359688 sample=../Audio/JP4K3Combo/JP4K3Combo-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 loop_mode=loop_sustain loop_start=271443 loop_end=333662 sample=../Audio/JP4K3Combo/JP4K3Combo-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 loop_mode=loop_sustain loop_start=268030 loop_end=363208 sample=../Audio/JP4K3Combo/JP4K3Combo-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=310887 loop_end=344050 sample=../Audio/JP4K3Combo/JP4K3Combo-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1279 loop_mode=loop_sustain loop_start=321921 loop_end=354793 sample=../Audio/JP4K3Combo/JP4K3Combo-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 loop_mode=loop_sustain loop_start=299764 loop_end=331553 sample=../Audio/JP4K3Combo/JP4K3Combo-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1265 loop_mode=loop_sustain loop_start=309864 loop_end=341286 sample=../Audio/JP4K3Combo/JP4K3Combo-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 end=588710 loop_mode=loop_sustain loop_start=310995 loop_end=341643 sample=../Audio/JP4K3Combo/JP4K3Combo-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 loop_mode=loop_sustain loop_start=334005 loop_end=365771 sample=../Audio/JP4K3Combo/JP4K3Combo-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 loop_mode=loop_sustain loop_start=298340 loop_end=361857 sample=../Audio/JP4K3Combo/JP4K3Combo-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=300550 loop_end=332214 sample=../Audio/JP4K3Combo/JP4K3Combo-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=282003 loop_end=313732 sample=../Audio/JP4K3Combo/JP4K3Combo-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1279 loop_mode=loop_sustain loop_start=328373 loop_end=360316 sample=../Audio/JP4K3Combo/JP4K3Combo-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=308674 loop_end=340483 sample=../Audio/JP4K3Combo/JP4K3Combo-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 end=587700 loop_mode=loop_sustain loop_start=322976 loop_end=354782 sample=../Audio/JP4K3Combo/JP4K3Combo-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 loop_mode=loop_sustain loop_start=269009 loop_end=332184 sample=../Audio/JP4K3Combo/JP4K3Combo-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 loop_mode=loop_sustain loop_start=307880 loop_end=339775 sample=../Audio/JP4K3Combo/JP4K3Combo-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 loop_mode=loop_sustain loop_start=325606 loop_end=357591 sample=../Audio/JP4K3Combo/JP4K3Combo-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 end=584832 loop_mode=loop_sustain loop_start=308944 loop_end=340024 sample=../Audio/JP4K3Combo/JP4K3Combo-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 loop_mode=loop_sustain loop_start=302297 loop_end=333284 sample=../Audio/JP4K3Combo/JP4K3Combo-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 loop_mode=loop_sustain loop_start=321181 loop_end=353729 sample=../Audio/JP4K3Combo/JP4K3Combo-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=306230 loop_end=337987 sample=../Audio/JP4K3Combo/JP4K3Combo-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=284276 loop_end=315238 sample=../Audio/JP4K3Combo/JP4K3Combo-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 loop_mode=loop_sustain loop_start=267805 loop_end=299669 sample=../Audio/JP4K3Combo/JP4K3Combo-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1151 loop_mode=loop_sustain loop_start=319818 loop_end=351636 sample=../Audio/JP4K3Combo/JP4K3Combo-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 loop_mode=loop_sustain loop_start=314273 loop_end=345372 sample=../Audio/JP4K3Combo/JP4K3Combo-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 loop_mode=loop_sustain loop_start=268125 loop_end=300808 sample=../Audio/JP4K3Combo/JP4K3Combo-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=305044 loop_end=336636 sample=../Audio/JP4K3Combo/JP4K3Combo-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 end=580758 loop_mode=loop_sustain loop_start=323709 loop_end=356404 sample=../Audio/JP4K3Combo/JP4K3Combo-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 loop_mode=loop_sustain loop_start=323569 loop_end=355455 sample=../Audio/JP4K3Combo/JP4K3Combo-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=301301 loop_end=332461 sample=../Audio/JP4K3Combo/JP4K3Combo-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 loop_mode=loop_sustain loop_start=326790 loop_end=358519 sample=../Audio/JP4K3Combo/JP4K3Combo-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 loop_mode=loop_sustain loop_start=317495 loop_end=349023 sample=../Audio/JP4K3Combo/JP4K3Combo-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 loop_mode=loop_sustain loop_start=302314 loop_end=334074 sample=../Audio/JP4K3Combo/JP4K3Combo-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1279 loop_mode=loop_sustain loop_start=335091 loop_end=368229 sample=../Audio/JP4K3Combo/JP4K3Combo-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=313370 loop_end=344842 sample=../Audio/JP4K3Combo/JP4K3Combo-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=316963 loop_end=348978 sample=../Audio/JP4K3Combo/JP4K3Combo-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 loop_mode=loop_sustain loop_start=323371 loop_end=355115 sample=../Audio/JP4K3Combo/JP4K3Combo-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1279 loop_mode=loop_sustain loop_start=318729 loop_end=350193 sample=../Audio/JP4K3Combo/JP4K3Combo-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 end=570386 loop_mode=loop_sustain loop_start=319570 loop_end=351209 sample=../Audio/JP4K3Combo/JP4K3Combo-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 loop_mode=loop_sustain loop_start=308364 loop_end=340160 sample=../Audio/JP4K3Combo/JP4K3Combo-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=895 end=568205 loop_mode=loop_sustain loop_start=324525 loop_end=356409 sample=../Audio/JP4K3Combo/JP4K3Combo-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 loop_mode=loop_sustain loop_start=314468 loop_end=346456 sample=../Audio/JP4K3Combo/JP4K3Combo-95-127.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1023 loop_mode=loop_sustain loop_start=306365 loop_end=338266 sample=../Audio/JP4K3Combo/JP4K3Combo-96-127.aif

@@ -1,0 +1,307 @@
+// this file was generated from TxtoMT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=128864 loop_end=277418 sample=../Audio/TxtoMT/(2013105 21141)/24C0-L88S.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=139922 loop_end=285803 sample=../Audio/TxtoMT/(2013105 21141)/24C0-ICAE.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=139859 loop_end=285757 sample=../Audio/TxtoMT/(2013105 21141)/24C0-NQOO.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=58167 loop_end=363338 sample=../Audio/TxtoMT/(2013105 21141)/24C0-GX86.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=84199 loop_end=356939 sample=../Audio/TxtoMT/(2013105 21141)/25C#0-MJJS.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=117269 loop_end=262474 sample=../Audio/TxtoMT/(2013105 21141)/25C#0-CEWO.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=118522 loop_end=263732 sample=../Audio/TxtoMT/(2013105 21141)/25C#0-FCOC.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=54834 loop_end=342723 sample=../Audio/TxtoMT/(2013105 21141)/25C#0-QODP.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=239468 loop_end=362238 sample=../Audio/TxtoMT/(2013105 21141)/26D0-JNGS.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=123772 loop_end=246542 sample=../Audio/TxtoMT/(2013105 21141)/26D0-EOXR.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=82035 loop_end=351417 sample=../Audio/TxtoMT/(2013105 21141)/26D0-84MZ.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=35011 loop_end=304389 sample=../Audio/TxtoMT/(2013105 21141)/26D0-BQR7.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=54826 loop_end=349494 sample=../Audio/TxtoMT/(2013105 21141)/27D#0-HTEK.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=100012 loop_end=174766 sample=../Audio/TxtoMT/(2013105 21141)/27D#0-5Z9V.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=56542 loop_end=183626 sample=../Audio/TxtoMT/(2013105 21141)/27D#0-YFP6.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=56551 loop_end=183645 sample=../Audio/TxtoMT/(2013105 21141)/27D#0-2WNW.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=30108 loop_end=303852 sample=../Audio/TxtoMT/(2013105 21141)/28E0-QYPH.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13654 loop_end=358983 sample=../Audio/TxtoMT/(2013105 21141)/28E0-O07Q.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=118968 loop_end=238871 sample=../Audio/TxtoMT/(2013105 21141)/28E0-YTLT.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=96391 loop_end=359515 sample=../Audio/TxtoMT/(2013105 21141)/28E0-K7Z3.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=218385 loop_end=341597 sample=../Audio/TxtoMT/(2013105 21141)/29F0-14IC.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=151627 loop_end=274841 sample=../Audio/TxtoMT/(2013105 21141)/29F0-OXIX.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=232102 loop_end=353326 sample=../Audio/TxtoMT/(2013105 21141)/29F0-TGJC.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233720 loop_end=356932 sample=../Audio/TxtoMT/(2013105 21141)/29F0-JS4J.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=107127 loop_end=353018 sample=../Audio/TxtoMT/(2013105 21141)/30F#0-JOSF.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=92313 loop_end=338201 sample=../Audio/TxtoMT/(2013105 21141)/30F#0-L58Z.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=96382 loop_end=342270 sample=../Audio/TxtoMT/(2013105 21141)/30F#0-EQJ4.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=124105 loop_end=360523 sample=../Audio/TxtoMT/(2013105 21141)/30F#0-XBZE.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=20711 loop_end=242028 sample=../Audio/TxtoMT/(2013105 21141)/31G0-UAL2.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=78461 loop_end=299778 sample=../Audio/TxtoMT/(2013105 21141)/31G0-XOZO.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=69467 loop_end=290780 sample=../Audio/TxtoMT/(2013105 21141)/31G0-V0YY.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257126 loop_end=363316 sample=../Audio/TxtoMT/(2013105 21141)/31G0-WOIL.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=83936 loop_end=182515 sample=../Audio/TxtoMT/(2013105 21141)/32G#0-BB5R.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=264010 loop_end=362589 sample=../Audio/TxtoMT/(2013105 21141)/32G#0-0NVH.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=21915 loop_end=122166 sample=../Audio/TxtoMT/(2013105 21141)/32G#0-9S1D.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25192 loop_end=125449 sample=../Audio/TxtoMT/(2013105 21141)/32G#0-918T.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=246080 loop_end=343893 sample=../Audio/TxtoMT/(2013105 21141)/33A0-TU65.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=230579 loop_end=328392 sample=../Audio/TxtoMT/(2013105 21141)/33A0-UXFU.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=235681 loop_end=333495 sample=../Audio/TxtoMT/(2013105 21141)/33A0-1UDP.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15842 loop_end=211462 sample=../Audio/TxtoMT/(2013105 21141)/33A0-8ZXH.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=161723 loop_end=358288 sample=../Audio/TxtoMT/(2013105 21141)/34A#0-2PVP.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=121727 loop_end=318296 sample=../Audio/TxtoMT/(2013105 21141)/34A#0-WH3J.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=78466 loop_end=275034 sample=../Audio/TxtoMT/(2013105 21141)/34A#0-KJ87.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116386 loop_end=305447 sample=../Audio/TxtoMT/(2013105 21141)/34A#0-WBF6.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=226701 loop_end=299652 sample=../Audio/TxtoMT/(2013105 21141)/35B0-S5J3.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=66305 loop_end=164740 sample=../Audio/TxtoMT/(2013105 21141)/35B0-Y7PO.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=21230 loop_end=289648 sample=../Audio/TxtoMT/(2013105 21141)/35B0-Y0WE.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=73935 loop_end=342351 sample=../Audio/TxtoMT/(2013105 21141)/35B0-QJ9H.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=92163 loop_end=364146 sample=../Audio/TxtoMT/(2013105 21141)/36C1-1QZC.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=79972 loop_end=351958 sample=../Audio/TxtoMT/(2013105 21141)/36C1-0PSP.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=19425 loop_end=291411 sample=../Audio/TxtoMT/(2013105 21141)/36C1-5G7Q.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=12616 loop_end=284600 sample=../Audio/TxtoMT/(2013105 21141)/36C1-NRNI.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=56308 loop_end=229058 sample=../Audio/TxtoMT/(2013105 21141)/37C#1-8I7B.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=64712 loop_end=237462 sample=../Audio/TxtoMT/(2013105 21141)/37C#1-ALI2.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=20243 loop_end=192993 sample=../Audio/TxtoMT/(2013105 21141)/37C#1-6YQZ.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149478 loop_end=322228 sample=../Audio/TxtoMT/(2013105 21141)/37C#1-9Y8N.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=192312 loop_end=265522 sample=../Audio/TxtoMT/(2013105 21141)/38D1-6GFB.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=101602 loop_end=348612 sample=../Audio/TxtoMT/(2013105 21141)/38D1-F825.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=106612 loop_end=352442 sample=../Audio/TxtoMT/(2013105 21141)/38D1-46EL.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=204396 loop_end=283564 sample=../Audio/TxtoMT/(2013105 21141)/38D1-SQ8J.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=30978 loop_end=252970 sample=../Audio/TxtoMT/(2013105 21141)/39D#1-D9ZO.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=139010 loop_end=361002 sample=../Audio/TxtoMT/(2013105 21141)/39D#1-Y0DT.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=216192 loop_end=292060 sample=../Audio/TxtoMT/(2013105 21141)/39D#1-WGRD.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246175 loop_end=322046 sample=../Audio/TxtoMT/(2013105 21141)/39D#1-O9QA.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=63581 loop_end=335050 sample=../Audio/TxtoMT/(2013105 21141)/40E1-5K3M.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=198592 loop_end=347052 sample=../Audio/TxtoMT/(2013105 21141)/40E1-U2YQ.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=188163 loop_end=336624 sample=../Audio/TxtoMT/(2013105 21141)/40E1-XF9O.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=10851 loop_end=359203 sample=../Audio/TxtoMT/(2013105 21141)/40E1-UDBR.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=78703 loop_end=350976 sample=../Audio/TxtoMT/(2013105 21141)/41F1-D396.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=88947 loop_end=361219 sample=../Audio/TxtoMT/(2013105 21141)/41F1-A2DK.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=43181 loop_end=315451 sample=../Audio/TxtoMT/(2013105 21141)/41F1-V14Y.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219700 loop_end=355831 sample=../Audio/TxtoMT/(2013105 21141)/41F1-5SFV.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=64919 loop_end=336000 sample=../Audio/TxtoMT/(2013105 21141)/42F#1-OTNU.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=198630 loop_end=346921 sample=../Audio/TxtoMT/(2013105 21141)/42F#1-8A52.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=188164 loop_end=336455 sample=../Audio/TxtoMT/(2013105 21141)/42F#1-XR1E.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=11070 loop_end=359129 sample=../Audio/TxtoMT/(2013105 21141)/42F#1-3531.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=77958 loop_end=201823 sample=../Audio/TxtoMT/(2013105 21141)/43G1-YS7Q.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=12546 loop_end=136412 sample=../Audio/TxtoMT/(2013105 21141)/43G1-SPQS.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=239684 loop_end=363549 sample=../Audio/TxtoMT/(2013105 21141)/43G1-3ROL.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240635 loop_end=364502 sample=../Audio/TxtoMT/(2013105 21141)/43G1-1QT1.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=65585 loop_end=361332 sample=../Audio/TxtoMT/(2013105 21141)/44G#1-MM0I.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=48769 loop_end=344517 sample=../Audio/TxtoMT/(2013105 21141)/44G#1-6KVQ.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=39684 loop_end=335430 sample=../Audio/TxtoMT/(2013105 21141)/44G#1-2EIG.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=54228 loop_end=349974 sample=../Audio/TxtoMT/(2013105 21141)/44G#1-6V3Y.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=225293 loop_end=348395 sample=../Audio/TxtoMT/(2013105 21141)/45A1-CCYU.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=38472 loop_end=161574 sample=../Audio/TxtoMT/(2013105 21141)/45A1-E6F0.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=68445 loop_end=362703 sample=../Audio/TxtoMT/(2013105 21141)/45A1-MWDH.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243971 loop_end=362303 sample=../Audio/TxtoMT/(2013105 21141)/45A1-D1P8.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=66135 loop_end=337772 sample=../Audio/TxtoMT/(2013105 21141)/46A#1-AYKP.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=50528 loop_end=321420 sample=../Audio/TxtoMT/(2013105 21141)/46A#1-7YQ8.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=15965 loop_end=236269 sample=../Audio/TxtoMT/(2013105 21141)/46A#1-GQ34.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=9562 loop_end=286441 sample=../Audio/TxtoMT/(2013105 21141)/46A#1-7XWA.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=52312 loop_end=201224 sample=../Audio/TxtoMT/(2013105 21141)/47B1-SOXC.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=209475 loop_end=358388 sample=../Audio/TxtoMT/(2013105 21141)/47B1-1KLF.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=114754 loop_end=215911 sample=../Audio/TxtoMT/(2013105 21141)/47B1-QY56.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242190 loop_end=348298 sample=../Audio/TxtoMT/(2013105 21141)/47B1-OXOG.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=64892 loop_end=285774 sample=../Audio/TxtoMT/(2013105 21141)/48C2-8DG3.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=763 loop_end=220315 sample=../Audio/TxtoMT/(2013105 21141)/48C2-64SB.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=127377 loop_end=348262 sample=../Audio/TxtoMT/(2013105 21141)/48C2-RKC3.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=59584 loop_end=279804 sample=../Audio/TxtoMT/(2013105 21141)/48C2-3FXI.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=247448 loop_end=345671 sample=../Audio/TxtoMT/(2013105 21141)/49C#2-C2D9.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259350 loop_end=357571 sample=../Audio/TxtoMT/(2013105 21141)/49C#2-PNKK.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=982 loop_end=319577 sample=../Audio/TxtoMT/(2013105 21141)/49C#2-TSRZ.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15085 loop_end=118345 sample=../Audio/TxtoMT/(2013105 21141)/49C#2-UA7F.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=87997 loop_end=186083 sample=../Audio/TxtoMT/(2013105 21141)/50D2-GEF5.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=879 loop_end=97779 sample=../Audio/TxtoMT/(2013105 21141)/50D2-5Y3O.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=82931 loop_end=181015 sample=../Audio/TxtoMT/(2013105 21141)/50D2-WP5A.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=204503 loop_end=297832 sample=../Audio/TxtoMT/(2013105 21141)/50D2-EH5M.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=786 loop_end=97877 sample=../Audio/TxtoMT/(2013105 21141)/51D#2-12PO.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=83419 loop_end=181622 sample=../Audio/TxtoMT/(2013105 21141)/51D#2-2SGN.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=196152 loop_end=293795 sample=../Audio/TxtoMT/(2013105 21141)/51D#2-527J.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=97366 loop_end=190523 sample=../Audio/TxtoMT/(2013105 21141)/51D#2-C8UT.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=13150 loop_end=358364 sample=../Audio/TxtoMT/(2013105 21141)/52E2-9YEC.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=44725 loop_end=340965 sample=../Audio/TxtoMT/(2013105 21141)/52E2-40L4.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=8836 loop_end=354051 sample=../Audio/TxtoMT/(2013105 21141)/52E2-U6GM.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=178463 loop_end=349482 sample=../Audio/TxtoMT/(2013105 21141)/52E2-4J6R.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=97738 loop_end=344654 sample=../Audio/TxtoMT/(2013105 21141)/53F2-KHWZ.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=8122 loop_end=255039 sample=../Audio/TxtoMT/(2013105 21141)/53F2-6L75.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=114527 loop_end=361444 sample=../Audio/TxtoMT/(2013105 21141)/53F2-OZ4N.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=111451 loop_end=358368 sample=../Audio/TxtoMT/(2013105 21141)/53F2-ON0P.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=37652 loop_end=259991 sample=../Audio/TxtoMT/(2013105 21141)/54F#2-GTVW.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=47018 loop_end=269357 sample=../Audio/TxtoMT/(2013105 21141)/54F#2-TANY.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=85515 loop_end=307854 sample=../Audio/TxtoMT/(2013105 21141)/54F#2-4SGH.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=992 loop_end=222863 sample=../Audio/TxtoMT/(2013105 21141)/54F#2-5LI3.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=50453 loop_end=247783 sample=../Audio/TxtoMT/(2013105 21141)/55G2-1CQN.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=12237 loop_end=209566 sample=../Audio/TxtoMT/(2013105 21141)/55G2-TGLA.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=50113 loop_end=247443 sample=../Audio/TxtoMT/(2013105 21141)/55G2-RMZN.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=166639 loop_end=364412 sample=../Audio/TxtoMT/(2013105 21141)/55G2-Q597.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=14226 loop_end=87326 sample=../Audio/TxtoMT/(2013105 21141)/56G#2-5R9F.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=48999 loop_end=122098 sample=../Audio/TxtoMT/(2013105 21141)/56G#2-MCN7.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=276126 loop_end=349227 sample=../Audio/TxtoMT/(2013105 21141)/56G#2-MDRM.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=208069 loop_end=353435 sample=../Audio/TxtoMT/(2013105 21141)/56G#2-5E2M.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=51753 loop_end=125916 sample=../Audio/TxtoMT/(2013105 21141)/57A2-DBAP.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14291 loop_end=88059 sample=../Audio/TxtoMT/(2013105 21141)/57A2-M8Y4.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=191978 loop_end=266141 sample=../Audio/TxtoMT/(2013105 21141)/57A2-EIS0.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=47373 loop_end=121536 sample=../Audio/TxtoMT/(2013105 21141)/57A2-M6NT.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=15396 loop_end=90961 sample=../Audio/TxtoMT/(2013105 21141)/58A#2-1BWG.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=124797 loop_end=197740 sample=../Audio/TxtoMT/(2013105 21141)/58A#2-OY1O.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=155494 loop_end=228066 sample=../Audio/TxtoMT/(2013105 21141)/58A#2-ABD2.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=207904 loop_end=353422 sample=../Audio/TxtoMT/(2013105 21141)/58A#2-VZ6L.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=77358 loop_end=348246 sample=../Audio/TxtoMT/(2013105 21141)/59B2-TC0Q.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=259543 loop_end=358256 sample=../Audio/TxtoMT/(2013105 21141)/59B2-AQN5.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=1012 loop_end=271549 sample=../Audio/TxtoMT/(2013105 21141)/59B2-ZS4A.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243510 loop_end=342223 sample=../Audio/TxtoMT/(2013105 21141)/59B2-F8NG.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=18207 loop_end=362803 sample=../Audio/TxtoMT/(2013105 21141)/60C3-603Y.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=2012 loop_end=346940 sample=../Audio/TxtoMT/(2013105 21141)/60C3-37Y5.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=12214 loop_end=356810 sample=../Audio/TxtoMT/(2013105 21141)/60C3-GGB5.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=9427 loop_end=354024 sample=../Audio/TxtoMT/(2013105 21141)/60C3-6KKV.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=200406 loop_end=349057 sample=../Audio/TxtoMT/(2013105 21141)/61C#3-RGWQ.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=185042 loop_end=333693 sample=../Audio/TxtoMT/(2013105 21141)/61C#3-J8MJ.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=167033 loop_end=315370 sample=../Audio/TxtoMT/(2013105 21141)/61C#3-24Y7.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20580 loop_end=168917 sample=../Audio/TxtoMT/(2013105 21141)/61C#3-MNAQ.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=38164 loop_end=113169 sample=../Audio/TxtoMT/(2013105 21141)/62D3-JX6A.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=220790 loop_end=295795 sample=../Audio/TxtoMT/(2013105 21141)/62D3-THU1.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=201656 loop_end=279330 sample=../Audio/TxtoMT/(2013105 21141)/62D3-ND0F.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252084 loop_end=329759 sample=../Audio/TxtoMT/(2013105 21141)/62D3-1899.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=171515 loop_end=318228 sample=../Audio/TxtoMT/(2013105 21141)/63D#3-HXOJ.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=107363 loop_end=253794 sample=../Audio/TxtoMT/(2013105 21141)/63D#3-YJUZ.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=213247 loop_end=359680 sample=../Audio/TxtoMT/(2013105 21141)/63D#3-TQAD.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216102 loop_end=362535 sample=../Audio/TxtoMT/(2013105 21141)/63D#3-SM08.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=136143 loop_end=357944 sample=../Audio/TxtoMT/(2013105 21141)/64E3-YE8Y.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=120487 loop_end=342552 sample=../Audio/TxtoMT/(2013105 21141)/64E3-9E7D.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=35646 loop_end=257447 sample=../Audio/TxtoMT/(2013105 21141)/64E3-8G3E.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=33054 loop_end=254856 sample=../Audio/TxtoMT/(2013105 21141)/64E3-I31M.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=101587 loop_end=178085 sample=../Audio/TxtoMT/(2013105 21141)/65F3-0HHS.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=38370 loop_end=112372 sample=../Audio/TxtoMT/(2013105 21141)/65F3-KVRJ.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=1002 loop_end=75503 sample=../Audio/TxtoMT/(2013105 21141)/65F3-I8HG.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=95531 loop_end=172276 sample=../Audio/TxtoMT/(2013105 21141)/65F3-UWTU.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=164101 loop_end=363468 sample=../Audio/TxtoMT/(2013105 21141)/66F#3-NLBF.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=52615 loop_end=201552 sample=../Audio/TxtoMT/(2013105 21141)/66F#3-FL7K.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=212559 loop_end=361261 sample=../Audio/TxtoMT/(2013105 21141)/66F#3-S2N0.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211198 loop_end=360134 sample=../Audio/TxtoMT/(2013105 21141)/66F#3-4T7G.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=204101 loop_end=277557 sample=../Audio/TxtoMT/(2013105 21141)/67G3-6VPQ.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=18189 loop_end=91200 sample=../Audio/TxtoMT/(2013105 21141)/67G3-F16C.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=79846 loop_end=153078 sample=../Audio/TxtoMT/(2013105 21141)/67G3-BHTE.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229305 loop_end=346990 sample=../Audio/TxtoMT/(2013105 21141)/67G3-9SY2.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=25623 loop_end=347050 sample=../Audio/TxtoMT/(2013105 21141)/68G#3-P0JE.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=37288 loop_end=358717 sample=../Audio/TxtoMT/(2013105 21141)/68G#3-BLB5.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=25259 loop_end=346897 sample=../Audio/TxtoMT/(2013105 21141)/68G#3-WPT4.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15136 loop_end=336774 sample=../Audio/TxtoMT/(2013105 21141)/68G#3-J7D8.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=40157 loop_end=112744 sample=../Audio/TxtoMT/(2013105 21141)/69A3-JVS6.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=273324 loop_end=346106 sample=../Audio/TxtoMT/(2013105 21141)/69A3-JLP5.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=136149 loop_end=208931 sample=../Audio/TxtoMT/(2013105 21141)/69A3-TVWX.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263354 loop_end=357429 sample=../Audio/TxtoMT/(2013105 21141)/69A3-1J7S.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=279530 loop_end=353227 sample=../Audio/TxtoMT/(2013105 21141)/70A#3-796R.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=87755 loop_end=161827 sample=../Audio/TxtoMT/(2013105 21141)/70A#3-GKAJ.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=874 loop_end=73266 sample=../Audio/TxtoMT/(2013105 21141)/70A#3-GHTG.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=993 loop_end=141480 sample=../Audio/TxtoMT/(2013105 21141)/70A#3-3D54.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=33987 loop_end=354403 sample=../Audio/TxtoMT/(2013105 21141)/71B3-8DJN.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=20411 loop_end=340826 sample=../Audio/TxtoMT/(2013105 21141)/71B3-3KDQ.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=7139 loop_end=327378 sample=../Audio/TxtoMT/(2013105 21141)/71B3-UU3K.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32948 loop_end=353363 sample=../Audio/TxtoMT/(2013105 21141)/71B3-MRCO.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=72758 loop_end=171098 sample=../Audio/TxtoMT/(2013105 21141)/72C4-IRSJ.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=35325 loop_end=133663 sample=../Audio/TxtoMT/(2013105 21141)/72C4-KITO.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=43421 loop_end=141428 sample=../Audio/TxtoMT/(2013105 21141)/72C4-96HK.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=217902 loop_end=315909 sample=../Audio/TxtoMT/(2013105 21141)/72C4-VSDK.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=259144 loop_end=357406 sample=../Audio/TxtoMT/(2013105 21141)/73C#4-JFPB.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=73897 loop_end=172944 sample=../Audio/TxtoMT/(2013105 21141)/73C#4-JY85.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=181177 loop_end=280224 sample=../Audio/TxtoMT/(2013105 21141)/73C#4-3QBI.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257927 loop_end=356974 sample=../Audio/TxtoMT/(2013105 21141)/73C#4-JU0R.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=77902 loop_end=349345 sample=../Audio/TxtoMT/(2013105 21141)/74D4-UD62.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=40065 loop_end=311508 sample=../Audio/TxtoMT/(2013105 21141)/74D4-TY47.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=1003 loop_end=272298 sample=../Audio/TxtoMT/(2013105 21141)/74D4-22OZ.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68085 loop_end=339380 sample=../Audio/TxtoMT/(2013105 21141)/74D4-XFQE.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=42014 loop_end=362498 sample=../Audio/TxtoMT/(2013105 21141)/75D#4-B1PG.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=28590 loop_end=349073 sample=../Audio/TxtoMT/(2013105 21141)/75D#4-XNVQ.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=37800 loop_end=358283 sample=../Audio/TxtoMT/(2013105 21141)/75D#4-LJ3O.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=40886 loop_end=361369 sample=../Audio/TxtoMT/(2013105 21141)/75D#4-XH9O.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=179278 loop_end=277550 sample=../Audio/TxtoMT/(2013105 21141)/76E4-00WE.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93425 loop_end=191564 sample=../Audio/TxtoMT/(2013105 21141)/76E4-9DP7.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=200955 loop_end=299226 sample=../Audio/TxtoMT/(2013105 21141)/76E4-JR2I.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252896 loop_end=351167 sample=../Audio/TxtoMT/(2013105 21141)/76E4-KTZ9.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=24523 loop_end=295898 sample=../Audio/TxtoMT/(2013105 21141)/77F4-I073.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=57885 loop_end=329634 sample=../Audio/TxtoMT/(2013105 21141)/77F4-TWB5.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=68164 loop_end=339913 sample=../Audio/TxtoMT/(2013105 21141)/77F4-31V0.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=69148 loop_end=340897 sample=../Audio/TxtoMT/(2013105 21141)/77F4-K7BM.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=59557 loop_end=331159 sample=../Audio/TxtoMT/(2013105 21141)/78F#4-SI4N.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=20940 loop_end=292660 sample=../Audio/TxtoMT/(2013105 21141)/78F#4-YSDF.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=28966 loop_end=300803 sample=../Audio/TxtoMT/(2013105 21141)/78F#4-XMA9.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32197 loop_end=304034 sample=../Audio/TxtoMT/(2013105 21141)/78F#4-XELM.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=46212 loop_end=119875 sample=../Audio/TxtoMT/(2013105 21141)/79G4-WMO8.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=193838 loop_end=267835 sample=../Audio/TxtoMT/(2013105 21141)/79G4-V1UJ.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=61341 loop_end=135560 sample=../Audio/TxtoMT/(2013105 21141)/79G4-BROD.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237397 loop_end=311616 sample=../Audio/TxtoMT/(2013105 21141)/79G4-Y10I.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=30784 loop_end=104510 sample=../Audio/TxtoMT/(2013105 21141)/80G#4-8SDE.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=91609 loop_end=165858 sample=../Audio/TxtoMT/(2013105 21141)/80G#4-AQF1.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=174533 loop_end=248782 sample=../Audio/TxtoMT/(2013105 21141)/80G#4-9951.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=78285 loop_end=152534 sample=../Audio/TxtoMT/(2013105 21141)/80G#4-DB58.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=192565 loop_end=266326 sample=../Audio/TxtoMT/(2013105 21141)/81A4-FA3V.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=180150 loop_end=253910 sample=../Audio/TxtoMT/(2013105 21141)/81A4-RX1K.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=186588 loop_end=260151 sample=../Audio/TxtoMT/(2013105 21141)/81A4-XKU6.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92909 loop_end=166472 sample=../Audio/TxtoMT/(2013105 21141)/81A4-0SXP.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=33223 loop_end=107190 sample=../Audio/TxtoMT/(2013105 21141)/82A#4-5DOY.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=120582 loop_end=194549 sample=../Audio/TxtoMT/(2013105 21141)/82A#4-WNV6.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=106491 loop_end=179524 sample=../Audio/TxtoMT/(2013105 21141)/82A#4-W00X.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=33751 loop_end=106785 sample=../Audio/TxtoMT/(2013105 21141)/82A#4-47VQ.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=1998 loop_end=224217 sample=../Audio/TxtoMT/(2013105 21141)/83B4-EL7C.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=134102 loop_end=356056 sample=../Audio/TxtoMT/(2013105 21141)/83B4-BVAX.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=69602 loop_end=291556 sample=../Audio/TxtoMT/(2013105 21141)/83B4-77UY.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60489 loop_end=283325 sample=../Audio/TxtoMT/(2013105 21141)/83B4-TG0P.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=64298 loop_end=138177 sample=../Audio/TxtoMT/(2013105 21141)/84C5-9478.wav
+	<region> lovel=009 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=224224 loop_end=297936 sample=../Audio/TxtoMT/(2013105 21141)/84C5-C749.wav
+	<region> lovel=033 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=225311 loop_end=299273 sample=../Audio/TxtoMT/(2013105 21141)/84C5-W5NL.wav
+	<region> lovel=072 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=63456 loop_end=137085 sample=../Audio/TxtoMT/(2013105 21141)/84C5-D76X.wav

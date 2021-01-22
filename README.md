@@ -7,7 +7,9 @@ A collection of unsorted, older patches. Sounds from the Concertmate MG1, SCI Pr
 -   **Approx Size:** 800mb
 -   **[Part 2](https://github.com/publicsamples/Misc-Synth-Samples-pt2)**
 
-   **Audio**: https://www.dropbox.com/sh/q6x3s3jjh4a4vkh/AACXOeK9AbZBtfyJnwdcCl16a?dl=0
+**This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/q6x3s3jjh4a4vkh/AACXOeK9AbZBtfyJnwdcCl16a?dl=0)
 
 # Loading
 
@@ -32,5 +34,5 @@ The SFZ format is supported by a wide variety of synths and samplers as such, sp
 
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

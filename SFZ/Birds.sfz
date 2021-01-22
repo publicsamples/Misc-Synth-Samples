@@ -1,4 +1,21 @@
-// this file was generated from Birds.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Birds.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=0 hikey=36 pitch_keycenter=36 seq_length=2 seq_position=1 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1
+<control>
+default_path=../Audio/Birds-SAMPLES/
+
+<group>
+<region> sample=birds in cloud generat#41C8.aif key=36 lokey=0 hikey=36 loop_mode=no_loop
+<region> sample=birds in cloud gener#26922D.aif key=37 lokey=37 hikey=37 loop_mode=no_loop
+<region> sample=birds in cloud gener#26922E.aif key=38 lokey=38 hikey=38 loop_mode=no_loop
+<region> sample=birds in cloud gener#26922F.aif key=39 lokey=39 hikey=39 loop_mode=no_loop
+<region> sample=birds in cloud gener#269230.aif key=40 lokey=40 hikey=40 loop_mode=no_loop
+<region> sample=birds in cloud gener#269231.aif key=41 lokey=41 hikey=41 loop_mode=no_loop
+<region> sample=birds in cloud gener#269232.aif key=42 lokey=42 hikey=42 loop_mode=no_loop
+<region> sample=birds in cloud gener#269233.aif key=43 lokey=43 hikey=43 loop_mode=no_loop
+<region> sample=birds in cloud gener#269234.aif key=44 lokey=44 hikey=44 loop_mode=no_loop
+<region> sample=birds in cloud gener#269235.aif key=45 lokey=45 hikey=45 loop_mode=no_loop
+<region> sample=birds in cloud gener#269236.aif key=46 lokey=46 hikey=46 loop_mode=no_loop
+<region> sample=birds in cloud gener#269237.aif key=47 lokey=47 hikey=47 loop_mode=no_loop
+<region> sample=birds in cloud gener#269238.aif key=48 lokey=48 hikey=48 loop_mode=no_loop
+<region> sample=birds in cloud gener#269239.aif key=49 lokey=49 hikey=117 loop_mode=no_loop

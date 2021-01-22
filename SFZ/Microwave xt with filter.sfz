@@ -1,132 +1,72 @@
-// this file was generated from Microwave xt with filter.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Microwave xt with filter.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=991 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-36-127_0002.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1088 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=531 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=585 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=838 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=698 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=735 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1065 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=660 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=604 end=435067 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=783 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=714 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=845 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=826 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=519 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=543 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=849 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=979 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=742 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=885 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=555 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=516 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=635 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=749 end=438907 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=615 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=545 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=900 end=428623 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=932 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=906 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=908 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=988 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=932 end=414474 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=992 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=656 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=748 end=419247 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1892 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=449 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1537 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=790 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=646 end=461899 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2007 end=441243 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=787 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=931 end=424655 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1727 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=686 end=441245 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=563 end=439216 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1409 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=432 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=611 end=436023 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2328 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=970 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=526 end=426313 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2003 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=688 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=782 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=614 end=384800 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=4577 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-96-127.aif
-<group> key=97 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=776 end=440101 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-97-127.aif
-<group> key=98 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=674 end=364815 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-98-127.aif
-<group> key=99 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2940 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-99-127.aif
-<group> key=100 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=648 sample=../Audio/Microwave xt with filter-SAMPLES/xt with filter-100-127_0001.aif
+<control>
+default_path=../Audio/Microwave xt with filter-SAMPLES/
+
+<group>        // xt with filter
+<region> sample=xt with filter-70-127.aif key=70 lokey=70 hikey=70amp_veltrack=20 lovel=1 hivel=127 offset=932 end=414474 loop_mode=no_loop
+<region> sample=xt with filter-67-127.aif key=67 lokey=67 hikey=67amp_veltrack=20 lovel=1 hivel=127 offset=906 loop_mode=no_loop
+<region> sample=xt with filter-89-127.aif key=89 lokey=89 hikey=89amp_veltrack=20 lovel=1 hivel=127 offset=2328 loop_mode=no_loop
+<region> sample=xt with filter-37-127.aif key=37 lokey=37 hikey=37amp_veltrack=20 lovel=1 hivel=127 offset=1088 loop_mode=no_loop
+<region> sample=xt with filter-82-127.aif key=82 lokey=82 hikey=82amp_veltrack=20 lovel=1 hivel=127 offset=931 end=424655 loop_mode=no_loop
+<region> sample=xt with filter-80-127.aif key=80 lokey=80 hikey=80amp_veltrack=20 lovel=1 hivel=127 offset=2007 end=441243 loop_mode=no_loop
+<region> sample=xt with filter-46-127.aif key=46 lokey=46 hikey=46amp_veltrack=20 lovel=1 hivel=127 offset=783 loop_mode=no_loop
+<region> sample=xt with filter-44-127.aif key=44 lokey=44 hikey=44amp_veltrack=20 lovel=1 hivel=127 offset=660 loop_mode=no_loop
+<region> sample=xt with filter-60-127.aif key=60 lokey=60 hikey=60amp_veltrack=20 lovel=1 hivel=127 offset=635 loop_mode=no_loop
+<region> sample=xt with filter-100-127_0001.aif key=100 lokey=100 hikey=100amp_veltrack=20 lovel=1 hivel=127 offset=648 loop_mode=no_loop
+<region> sample=xt with filter-53-127.aif key=53 lokey=53 hikey=53amp_veltrack=20 lovel=1 hivel=127 offset=849 loop_mode=no_loop
+<region> sample=xt with filter-77-127.aif key=77 lokey=77 hikey=77amp_veltrack=20 lovel=1 hivel=127 offset=1537 loop_mode=no_loop
+<region> sample=xt with filter-58-127.aif key=58 lokey=58 hikey=58amp_veltrack=20 lovel=1 hivel=127 offset=555 loop_mode=no_loop
+<region> sample=xt with filter-54-127.aif key=54 lokey=54 hikey=54amp_veltrack=20 lovel=1 hivel=127 offset=979 loop_mode=no_loop
+<region> sample=xt with filter-68-127.aif key=68 lokey=68 hikey=68amp_veltrack=20 lovel=1 hivel=127 offset=908 loop_mode=no_loop
+<region> sample=xt with filter-85-127.aif key=85 lokey=85 hikey=85amp_veltrack=20 lovel=1 hivel=127 offset=563 end=439216 loop_mode=no_loop
+<region> sample=xt with filter-98-127.aif key=98 lokey=98 hikey=98amp_veltrack=20 lovel=1 hivel=127 offset=674 end=364815 loop_mode=no_loop
+<region> sample=xt with filter-65-127.aif key=65 lokey=65 hikey=65amp_veltrack=20 lovel=1 hivel=127 offset=932 loop_mode=no_loop
+<region> sample=xt with filter-84-127.aif key=84 lokey=84 hikey=84amp_veltrack=20 lovel=1 hivel=127 offset=686 end=441245 loop_mode=no_loop
+<region> sample=xt with filter-95-127.aif key=95 lokey=95 hikey=95amp_veltrack=20 lovel=1 hivel=127 offset=614 end=384800 loop_mode=no_loop
+<region> sample=xt with filter-86-127.aif key=86 lokey=86 hikey=86amp_veltrack=20 lovel=1 hivel=127 offset=1409 loop_mode=no_loop
+<region> sample=xt with filter-73-127.aif key=73 lokey=73 hikey=73amp_veltrack=20 lovel=1 hivel=127 offset=748 end=419247 loop_mode=no_loop
+<region> sample=xt with filter-69-127.aif key=69 lokey=69 hikey=69amp_veltrack=20 lovel=1 hivel=127 offset=988 loop_mode=no_loop
+<region> sample=xt with filter-66-127.aif key=66 lokey=66 hikey=66amp_veltrack=20 lovel=1 hivel=127 offset=716 loop_mode=no_loop
+<region> sample=xt with filter-55-127.aif key=55 lokey=55 hikey=55amp_veltrack=20 lovel=1 hivel=127 offset=742 loop_mode=no_loop
+<region> sample=xt with filter-90-127.aif key=90 lokey=90 hikey=90amp_veltrack=20 lovel=1 hivel=127 offset=970 loop_mode=no_loop
+<region> sample=xt with filter-81-127.aif key=81 lokey=81 hikey=81amp_veltrack=20 lovel=1 hivel=127 offset=787 loop_mode=no_loop
+<region> sample=xt with filter-87-127.aif key=87 lokey=87 hikey=87amp_veltrack=20 lovel=1 hivel=127 offset=432 loop_mode=no_loop
+<region> sample=xt with filter-41-127.aif key=41 lokey=41 hikey=41amp_veltrack=20 lovel=1 hivel=127 offset=698 loop_mode=no_loop
+<region> sample=xt with filter-38-127.aif key=38 lokey=38 hikey=38amp_veltrack=20 lovel=1 hivel=127 offset=531 loop_mode=no_loop
+<region> sample=xt with filter-50-127.aif key=50 lokey=50 hikey=50amp_veltrack=20 lovel=1 hivel=127 offset=826 loop_mode=no_loop
+<region> sample=xt with filter-99-127.aif key=99 lokey=99 hikey=99amp_veltrack=20 lovel=1 hivel=127 offset=2940 loop_mode=no_loop
+<region> sample=xt with filter-48-127.aif key=48 lokey=48 hikey=48amp_veltrack=20 lovel=1 hivel=127 offset=716 loop_mode=no_loop
+<region> sample=xt with filter-71-127.aif key=71 lokey=71 hikey=71amp_veltrack=20 lovel=1 hivel=127 offset=992 loop_mode=no_loop
+<region> sample=xt with filter-59-127.aif key=59 lokey=59 hikey=59amp_veltrack=20 lovel=1 hivel=127 offset=516 loop_mode=no_loop
+<region> sample=xt with filter-61-127.aif key=61 lokey=61 hikey=61amp_veltrack=20 lovel=1 hivel=127 offset=749 end=438907 loop_mode=no_loop
+<region> sample=xt with filter-94-127.aif key=94 lokey=94 hikey=94amp_veltrack=20 lovel=1 hivel=127 offset=782 loop_mode=no_loop
+<region> sample=xt with filter-78-127.aif key=78 lokey=78 hikey=78amp_veltrack=20 lovel=1 hivel=127 offset=790 loop_mode=no_loop
+<region> sample=xt with filter-91-127.aif key=91 lokey=91 hikey=91amp_veltrack=20 lovel=1 hivel=127 offset=526 end=426313 loop_mode=no_loop
+<region> sample=xt with filter-43-127.aif key=43 lokey=43 hikey=43amp_veltrack=20 lovel=1 hivel=127 offset=1065 loop_mode=no_loop
+<region> sample=xt with filter-57-127.aif key=57 lokey=57 hikey=57amp_veltrack=20 lovel=1 hivel=127 offset=624 loop_mode=no_loop
+<region> sample=xt with filter-79-127.aif key=79 lokey=79 hikey=79amp_veltrack=20 lovel=1 hivel=127 offset=646 end=461899 loop_mode=no_loop
+<region> sample=xt with filter-92-127.aif key=92 lokey=92 hikey=92amp_veltrack=20 lovel=1 hivel=127 offset=2003 loop_mode=no_loop
+<region> sample=xt with filter-88-127.aif key=88 lokey=88 hikey=88amp_veltrack=20 lovel=1 hivel=127 offset=611 end=436023 loop_mode=no_loop
+<region> sample=xt with filter-40-127.aif key=40 lokey=40 hikey=40amp_veltrack=20 lovel=1 hivel=127 offset=838 loop_mode=no_loop
+<region> sample=xt with filter-56-127.aif key=56 lokey=56 hikey=56amp_veltrack=20 lovel=1 hivel=127 offset=885 loop_mode=no_loop
+<region> sample=xt with filter-96-127.aif key=96 lokey=96 hikey=96amp_veltrack=20 lovel=1 hivel=127 offset=4577 loop_mode=no_loop
+<region> sample=xt with filter-47-127.aif key=47 lokey=47 hikey=47amp_veltrack=20 lovel=1 hivel=127 offset=714 loop_mode=no_loop
+<region> sample=xt with filter-49-127.aif key=49 lokey=49 hikey=49amp_veltrack=20 lovel=1 hivel=127 offset=845 loop_mode=no_loop
+<region> sample=xt with filter-97-127.aif key=97 lokey=97 hikey=97amp_veltrack=20 lovel=1 hivel=127 offset=776 end=440101 loop_mode=no_loop
+<region> sample=xt with filter-75-127.aif key=75 lokey=75 hikey=75amp_veltrack=20 lovel=1 hivel=127 offset=449 loop_mode=no_loop
+<region> sample=xt with filter-74-127.aif key=74 lokey=74 hikey=74amp_veltrack=20 lovel=1 hivel=127 offset=1892 loop_mode=no_loop
+<region> sample=xt with filter-76-127.aif key=76 lokey=76 hikey=76amp_veltrack=20 lovel=1 hivel=127 offset=641 loop_mode=no_loop
+<region> sample=xt with filter-83-127.aif key=83 lokey=83 hikey=83amp_veltrack=20 lovel=1 hivel=127 offset=1727 loop_mode=no_loop
+<region> sample=xt with filter-63-127.aif key=63 lokey=63 hikey=63amp_veltrack=20 lovel=1 hivel=127 offset=545 loop_mode=no_loop
+<region> sample=xt with filter-93-127.aif key=93 lokey=93 hikey=93amp_veltrack=20 lovel=1 hivel=127 offset=688 loop_mode=no_loop
+<region> sample=xt with filter-42-127.aif key=42 lokey=42 hikey=42amp_veltrack=20 lovel=1 hivel=127 offset=735 loop_mode=no_loop
+<region> sample=xt with filter-36-127_0002.aif key=36 lokey=36 hikey=36amp_veltrack=20 lovel=1 hivel=127 offset=991 loop_mode=no_loop
+<region> sample=xt with filter-39-127.aif key=39 lokey=39 hikey=39amp_veltrack=20 lovel=1 hivel=127 offset=585 loop_mode=no_loop
+<region> sample=xt with filter-62-127.aif key=62 lokey=62 hikey=62amp_veltrack=20 lovel=1 hivel=127 offset=615 loop_mode=no_loop
+<region> sample=xt with filter-72-127.aif key=72 lokey=72 hikey=72amp_veltrack=20 lovel=1 hivel=127 offset=656 loop_mode=no_loop
+<region> sample=xt with filter-45-127.aif key=45 lokey=45 hikey=45amp_veltrack=20 lovel=1 hivel=127 offset=604 end=435067 loop_mode=no_loop
+<region> sample=xt with filter-51-127.aif key=51 lokey=51 hikey=51amp_veltrack=20 lovel=1 hivel=127 offset=519 loop_mode=no_loop
+<region> sample=xt with filter-52-127.aif key=52 lokey=52 hikey=52amp_veltrack=20 lovel=1 hivel=127 offset=543 loop_mode=no_loop
+<region> sample=xt with filter-64-127.aif key=64 lokey=64 hikey=64amp_veltrack=20 lovel=1 hivel=127 offset=900 end=428623 loop_mode=no_loop

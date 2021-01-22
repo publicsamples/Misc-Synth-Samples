@@ -1,0 +1,56 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file -  Cluster: Strings.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/ Cluster: Strings/(201282 1211)/
+
+<group>        // Cluster: Strings
+<region> sample=Cluster/ Strings-36-#476395.aif key=36 lokey=36 hikey=36amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=56029 loop_end=149792
+<region> sample=Cluster/ Strings-37-#476396.aif key=37 lokey=37 hikey=37amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=146191 loop_end=314875
+<region> sample=Cluster/ Strings-38-#476397.aif key=38 lokey=38 hikey=38amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=249293 loop_end=325572
+<region> sample=Cluster/ Strings-39-#476398.aif key=39 lokey=39 hikey=39amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=62117 loop_end=362666
+<region> sample=Cluster/ Strings-40-1#1BAD2.aif key=40 lokey=40 hikey=40amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=7759 loop_end=144194
+<region> sample=Cluster/ Strings-41-#47639A.aif key=41 lokey=41 hikey=41amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=7791 loop_end=358396
+<region> sample=Cluster/ Strings-42-#47639B.aif key=42 lokey=42 hikey=42amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=74427 loop_end=151175
+<region> sample=Cluster/ Strings-43-#47639C.aif key=43 lokey=43 hikey=43amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=26432 loop_end=359030
+<region> sample=Cluster/ Strings-44-#47639D.aif key=44 lokey=44 hikey=44amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=8433 loop_end=229311
+<region> sample=Cluster/ Strings-45-#47639E.aif key=45 lokey=45 hikey=45amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=78885 loop_end=159478
+<region> sample=Cluster/ Strings-46-#47639F.aif key=46 lokey=46 hikey=46amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=168102 loop_end=257805
+<region> sample=Cluster/ Strings-47-#4763A0.aif key=47 lokey=47 hikey=47amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=222020 loop_end=299496
+<region> sample=Cluster/ Strings-48-#4763A1.aif key=48 lokey=48 hikey=48amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=41183 loop_end=185101
+<region> sample=Cluster/ Strings-49-#4763A2.aif key=49 lokey=49 hikey=49amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=62892 loop_end=182578
+<region> sample=Cluster/ Strings-50-#4763A3.aif key=50 lokey=50 hikey=50amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=119696 loop_end=344426
+<region> sample=Cluster/ Strings-51-#4763A4.aif key=51 lokey=51 hikey=51amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=8159 loop_end=364265
+<region> sample=Cluster/ Strings-52-#4763A5.aif key=52 lokey=52 hikey=52amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=38072 loop_end=147215
+<region> sample=Cluster/ Strings-53-#4763A6.aif key=53 lokey=53 hikey=53amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=25751 loop_end=127035
+<region> sample=Cluster/ Strings-54-#4763A7.aif key=54 lokey=54 hikey=54amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=117120 loop_end=242933
+<region> sample=Cluster/ Strings-55-#4763A8.aif key=55 lokey=55 hikey=55amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=92962 loop_end=332626
+<region> sample=Cluster/ Strings-56-#4763A9.aif key=56 lokey=56 hikey=56amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=161981 loop_end=363894
+<region> sample=Cluster/ Strings-57-#4763AA.aif key=57 lokey=57 hikey=57amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=53739 loop_end=135761
+<region> sample=Cluster/ Strings-58-#4763AB.aif key=58 lokey=58 hikey=58amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=174907 loop_end=261006
+<region> sample=Cluster/ Strings-59-#4763AC.aif key=59 lokey=59 hikey=59amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=41811 loop_end=330566
+<region> sample=Cluster/ Strings-60-#4763AD.aif key=60 lokey=60 hikey=60amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=149241 loop_end=257637
+<region> sample=Cluster/ Strings-61-#4763AE.aif key=61 lokey=61 hikey=61amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=8006 loop_end=346089
+<region> sample=Cluster/ Strings-62-#4763AF.aif key=62 lokey=62 hikey=62amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=157350 loop_end=353350
+<region> sample=Cluster/ Strings-63-#4763B0.aif key=63 lokey=63 hikey=63amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=32825 loop_end=338501
+<region> sample=Cluster/ Strings-64-#4763B1.aif key=64 lokey=64 hikey=64amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=183954 loop_end=262343
+<region> sample=Cluster/ Strings-65-#4763B2.aif key=65 lokey=65 hikey=65amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=9108 loop_end=87550
+<region> sample=Cluster/ Strings-66-#4763B3.aif key=66 lokey=66 hikey=66amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=68469 loop_end=147117
+<region> sample=Cluster/ Strings-67-#4763B4.aif key=67 lokey=67 hikey=67amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=14315 loop_end=138838
+<region> sample=Cluster/ Strings-68-#4763B5.aif key=68 lokey=68 hikey=68amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=241051 loop_end=359250
+<region> sample=Cluster/ Strings-69-#4763B6.aif key=69 lokey=69 hikey=69amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=198800 loop_end=281027
+<region> sample=Cluster/ Strings-70-#4763B7.aif key=70 lokey=70 hikey=70amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=80342 loop_end=198972
+<region> sample=Cluster/ Strings-71-#4763B8.aif key=71 lokey=71 hikey=71amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=126542 loop_end=355031
+<region> sample=Cluster/ Strings-72-#4763B9.aif key=72 lokey=72 hikey=72amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=248690 loop_end=326737
+<region> sample=Cluster/ Strings-73-#4763BA.aif key=73 lokey=73 hikey=73amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=105118 loop_end=287905
+<region> sample=Cluster/ Strings-74-#4763BB.aif key=74 lokey=74 hikey=74amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=150335 loop_end=356689
+<region> sample=Cluster/ Strings-75-#4763BC.aif key=75 lokey=75 hikey=75amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=159470 loop_end=362582
+<region> sample=Cluster/ Strings-76-#4763BD.aif key=76 lokey=76 hikey=76amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=142670 loop_end=225880
+<region> sample=Cluster/ Strings-77-#4763BE.aif key=77 lokey=77 hikey=77amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=50824 loop_end=235882
+<region> sample=Cluster/ Strings-78-#4763BF.aif key=78 lokey=78 hikey=78amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=39894 loop_end=127850
+<region> sample=Cluster/ Strings-79-#4763C0.aif key=79 lokey=79 hikey=79amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=158447 loop_end=297761
+<region> sample=Cluster/ Strings-80-#4763C1.aif key=80 lokey=80 hikey=80amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=192362 loop_end=341721
+<region> sample=Cluster/ Strings-81-#4763C2.aif key=81 lokey=81 hikey=81amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=153585 loop_end=357814
+<region> sample=Cluster/ Strings-82-#4763C3.aif key=82 lokey=82 hikey=82amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=7588 loop_end=130740
+<region> sample=Cluster/ Strings-83-#4763C4.aif key=83 lokey=83 hikey=83amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=192372 loop_end=275776
+<region> sample=Cluster/ Strings-84-#4763C5.aif key=84 lokey=84 hikey=84amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=171840 loop_end=290762

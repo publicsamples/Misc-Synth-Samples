@@ -1,98 +1,55 @@
-// this file was generated from SCI Prophet 2000  - Flute.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SCI Prophet 2000  - Flute.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=25 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=73220 loop_end=225592 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-25-127-9ION.aif
-<group> key=26 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77317 loop_end=120333 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-26-127-4U28.aif
-<group> key=27 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=179424 loop_end=223985 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-27-127-HYNN.aif
-<group> key=28 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=59651 loop_end=212824 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-28-127-IKDZ.aif
-<group> key=29 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=56898 loop_end=226819 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-29-127-D097.aif
-<group> key=30 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=103807 loop_end=155785 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-30-127-25M9.aif
-<group> key=31 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77413 loop_end=231662 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-31-127-Y3TF.aif
-<group> key=32 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142683 loop_end=182858 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-32-127-YPUY.aif
-<group> key=33 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=169200 loop_end=219550 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-33-127-5JF1.aif
-<group> key=34 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192778 loop_end=234103 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-34-127-6K0J.aif
-<group> key=35 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=55628 loop_end=207664 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-35-127-TM6E.aif
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=54886 loop_end=237098 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-36-127-HUTZ.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=94712 loop_end=184609 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-37-127-ANTP.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127569 loop_end=185904 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-38-127-K191.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165474 loop_end=209186 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-39-127-WEZY.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=106042 loop_end=236922 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-40-127-7WFO.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=89439 loop_end=204241 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-41-127-COMQ.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143952 loop_end=184863 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-42-127-RPDV.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161327 loop_end=204277 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-43-127-9ISV.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66790 loop_end=205205 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-44-127-A99C.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61922 loop_end=105667 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-45-127-7TDE.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34290 loop_end=135736 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-46-127-IWOT.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77231 loop_end=228917 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-47-127-CW7Z.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=47015 loop_end=219648 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-48-127-PU69.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=53886 loop_end=234644 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-49-127-GLRX.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142744 loop_end=198729 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-50-127-P0WN.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=128374 loop_end=236979 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-51-127-KWNW.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=85006 loop_end=170446 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-52-127-8WNR.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=64895 loop_end=107927 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-53-127-T7TX.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=70149 loop_end=225815 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-54-127-F93Z.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161504 loop_end=235959 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-55-127-HGZG.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=114156 loop_end=197570 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-56-127-A0CJ.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=135634 loop_end=191369 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-57-127-NJY6.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160198 loop_end=216509 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-58-127-9XLE.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=125376 loop_end=173513 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-59-127-430J.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=84089 loop_end=131251 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-60-127-E7YT.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=115119 loop_end=160200 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-61-127-A2BW.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155123 loop_end=197740 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-62-127-ONDA.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160916 loop_end=203199 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-63-127-DJQN.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66016 loop_end=225696 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-64-127-87WL.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88542 loop_end=230931 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-65-127-2DDT.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145628 loop_end=223201 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-66-127-CY70.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71125 loop_end=141963 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-67-127-Y73I.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61896 loop_end=216442 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-68-127-BKTL.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=53741 loop_end=113115 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-69-127-FI4J.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=61084 loop_end=123332 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-70-127-SJV6.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=125352 loop_end=177846 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-71-127-2DSR.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=65283 loop_end=225736 sample=../Audio/SCI Prophet 2000  - Flute-SAMPLES/Flute-72-127-M133.aif
+<control>
+default_path=../Audio/SCI Prophet 2000  - Flute-SAMPLES/
+
+<group>        // Flute
+<region> sample=Flute-25-127-9ION.aif key=25 lokey=25 hikey=25amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=73220 loop_end=225593
+<region> sample=Flute-26-127-4U28.aif key=26 lokey=26 hikey=26amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=77317 loop_end=120334
+<region> sample=Flute-27-127-HYNN.aif key=27 lokey=27 hikey=27amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=179424 loop_end=223986
+<region> sample=Flute-28-127-IKDZ.aif key=28 lokey=28 hikey=28amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=59651 loop_end=212825
+<region> sample=Flute-29-127-D097.aif key=29 lokey=29 hikey=29amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=56898 loop_end=226820
+<region> sample=Flute-30-127-25M9.aif key=30 lokey=30 hikey=30amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=103807 loop_end=155786
+<region> sample=Flute-31-127-Y3TF.aif key=31 lokey=31 hikey=31amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=77413 loop_end=231663
+<region> sample=Flute-32-127-YPUY.aif key=32 lokey=32 hikey=32amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=142683 loop_end=182859
+<region> sample=Flute-33-127-5JF1.aif key=33 lokey=33 hikey=33amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=169200 loop_end=219551
+<region> sample=Flute-34-127-6K0J.aif key=34 lokey=34 hikey=34amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=192778 loop_end=234104
+<region> sample=Flute-35-127-TM6E.aif key=35 lokey=35 hikey=35amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=55628 loop_end=207665
+<region> sample=Flute-36-127-HUTZ.aif key=36 lokey=36 hikey=36amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=54886 loop_end=237099
+<region> sample=Flute-37-127-ANTP.aif key=37 lokey=37 hikey=37amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=94712 loop_end=184610
+<region> sample=Flute-38-127-K191.aif key=38 lokey=38 hikey=38amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=127569 loop_end=185905
+<region> sample=Flute-39-127-WEZY.aif key=39 lokey=39 hikey=39amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=165474 loop_end=209187
+<region> sample=Flute-40-127-7WFO.aif key=40 lokey=40 hikey=40amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=106042 loop_end=236923
+<region> sample=Flute-41-127-COMQ.aif key=41 lokey=41 hikey=41amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=89439 loop_end=204242
+<region> sample=Flute-42-127-RPDV.aif key=42 lokey=42 hikey=42amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=143952 loop_end=184864
+<region> sample=Flute-43-127-9ISV.aif key=43 lokey=43 hikey=43amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=161327 loop_end=204278
+<region> sample=Flute-44-127-A99C.aif key=44 lokey=44 hikey=44amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=66790 loop_end=205206
+<region> sample=Flute-45-127-7TDE.aif key=45 lokey=45 hikey=45amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=61922 loop_end=105668
+<region> sample=Flute-46-127-IWOT.aif key=46 lokey=46 hikey=46amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=34290 loop_end=135737
+<region> sample=Flute-47-127-CW7Z.aif key=47 lokey=47 hikey=47amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=77231 loop_end=228918
+<region> sample=Flute-48-127-PU69.aif key=48 lokey=48 hikey=48amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=47015 loop_end=219649
+<region> sample=Flute-49-127-GLRX.aif key=49 lokey=49 hikey=49amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=53886 loop_end=234645
+<region> sample=Flute-50-127-P0WN.aif key=50 lokey=50 hikey=50amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=142744 loop_end=198730
+<region> sample=Flute-51-127-KWNW.aif key=51 lokey=51 hikey=51amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=128374 loop_end=236980
+<region> sample=Flute-52-127-8WNR.aif key=52 lokey=52 hikey=52amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=85006 loop_end=170447
+<region> sample=Flute-53-127-T7TX.aif key=53 lokey=53 hikey=53amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=64895 loop_end=107928
+<region> sample=Flute-54-127-F93Z.aif key=54 lokey=54 hikey=54amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=70149 loop_end=225816
+<region> sample=Flute-55-127-HGZG.aif key=55 lokey=55 hikey=55amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=161504 loop_end=235960
+<region> sample=Flute-56-127-A0CJ.aif key=56 lokey=56 hikey=56amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=114156 loop_end=197571
+<region> sample=Flute-57-127-NJY6.aif key=57 lokey=57 hikey=57amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=135634 loop_end=191370
+<region> sample=Flute-58-127-9XLE.aif key=58 lokey=58 hikey=58amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=160198 loop_end=216510
+<region> sample=Flute-59-127-430J.aif key=59 lokey=59 hikey=59amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=125376 loop_end=173514
+<region> sample=Flute-60-127-E7YT.aif key=60 lokey=60 hikey=60amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=84089 loop_end=131252
+<region> sample=Flute-61-127-A2BW.aif key=61 lokey=61 hikey=61amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=115119 loop_end=160201
+<region> sample=Flute-62-127-ONDA.aif key=62 lokey=62 hikey=62amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=155123 loop_end=197741
+<region> sample=Flute-63-127-DJQN.aif key=63 lokey=63 hikey=63amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=160916 loop_end=203200
+<region> sample=Flute-64-127-87WL.aif key=64 lokey=64 hikey=64amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=66016 loop_end=225697
+<region> sample=Flute-65-127-2DDT.aif key=65 lokey=65 hikey=65amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=88542 loop_end=230932
+<region> sample=Flute-66-127-CY70.aif key=66 lokey=66 hikey=66amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=145628 loop_end=223202
+<region> sample=Flute-67-127-Y73I.aif key=67 lokey=67 hikey=67amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=71125 loop_end=141964
+<region> sample=Flute-68-127-BKTL.aif key=68 lokey=68 hikey=68amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=61896 loop_end=216443
+<region> sample=Flute-69-127-FI4J.aif key=69 lokey=69 hikey=69amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=53741 loop_end=113116
+<region> sample=Flute-70-127-SJV6.aif key=70 lokey=70 hikey=70amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=61084 loop_end=123333
+<region> sample=Flute-71-127-2DSR.aif key=71 lokey=71 hikey=71amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=125352 loop_end=177847
+<region> sample=Flute-72-127-M133.aif key=72 lokey=72 hikey=72amp_veltrack=20 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=65283 loop_end=225737

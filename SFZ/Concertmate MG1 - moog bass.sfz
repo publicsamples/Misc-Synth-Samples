@@ -1,76 +1,44 @@
-// this file was generated from Concertmate MG1 - moog bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Concertmate MG1 - moog bass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193752_c27f0000.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193801_c#27f0000.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193811_d27f0000.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193822_d#27f0000.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193831_e27f0000.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193841_f27f0000.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193850_f#27f0000.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193859_g27f0000.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193909_g#27f0000.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193918_a27f0000.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193927_a#27f0000.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193936_b27f0000.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193946_c37f0000.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102193955_c#37f0000.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194004_d37f0000.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194014_d#37f0000.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194025_e37f0000.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194037_f37f0000.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194048_f#37f0000.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194102_g37f0000.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194111_g#37f0000.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194120_a37f0000.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194130_a#37f0000.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194141_b37f0000.wav
-<group> key=72 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194150_c47f0000.wav
-<group> key=73 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194202_c#47f0000.wav
-<group> key=74 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194213_d47f0000.wav
-<group> key=75 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194227_d#47f0000.wav
-<group> key=76 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194241_e47f0000.wav
-<group> key=77 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194254_f47f0000.wav
-<group> key=78 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194308_f#47f0000.wav
-<group> key=79 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194321_g47f0000.wav
-<group> key=80 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194331_g#47f0000.wav
-<group> key=81 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194340_a47f0000.wav
-<group> key=82 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194349_a#47f0000.wav
-<group> key=83 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194358_b47f0000.wav
-<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/20091102194407_c57f0000.wav
+<control>
+default_path=../Audio/Concertmate MG1 - Env moog bass-SAMPLES/
+
+<group>        // Single group
+<region> sample=20091102193752_c27f0000.wav key=48 lokey=0 hikey=48amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193801_c#27f0000.wav key=49 lokey=49 hikey=49amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193811_d27f0000.wav key=50 lokey=50 hikey=50amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193822_d#27f0000.wav key=51 lokey=51 hikey=51amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193831_e27f0000.wav key=52 lokey=52 hikey=52amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193841_f27f0000.wav key=53 lokey=53 hikey=53amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193850_f#27f0000.wav key=54 lokey=54 hikey=54amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193859_g27f0000.wav key=55 lokey=55 hikey=55amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193909_g#27f0000.wav key=56 lokey=56 hikey=56amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193918_a27f0000.wav key=57 lokey=57 hikey=57amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193927_a#27f0000.wav key=58 lokey=58 hikey=58amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193936_b27f0000.wav key=59 lokey=59 hikey=59amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193946_c37f0000.wav key=60 lokey=60 hikey=60amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102193955_c#37f0000.wav key=61 lokey=61 hikey=61amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194004_d37f0000.wav key=62 lokey=62 hikey=62amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194014_d#37f0000.wav key=63 lokey=63 hikey=63amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194025_e37f0000.wav key=64 lokey=64 hikey=64amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194037_f37f0000.wav key=65 lokey=65 hikey=65amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194048_f#37f0000.wav key=66 lokey=66 hikey=66amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194102_g37f0000.wav key=67 lokey=67 hikey=67amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194111_g#37f0000.wav key=68 lokey=68 hikey=68amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194120_a37f0000.wav key=69 lokey=69 hikey=69amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194130_a#37f0000.wav key=70 lokey=70 hikey=70amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194141_b37f0000.wav key=71 lokey=71 hikey=71amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194150_c47f0000.wav key=72 lokey=72 hikey=72amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194202_c#47f0000.wav key=73 lokey=73 hikey=73amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194213_d47f0000.wav key=74 lokey=74 hikey=74amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194227_d#47f0000.wav key=75 lokey=75 hikey=75amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194241_e47f0000.wav key=76 lokey=76 hikey=76amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194254_f47f0000.wav key=77 lokey=77 hikey=77amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194308_f#47f0000.wav key=78 lokey=78 hikey=78amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194321_g47f0000.wav key=79 lokey=79 hikey=79amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194331_g#47f0000.wav key=80 lokey=80 hikey=80amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194340_a47f0000.wav key=81 lokey=81 hikey=81amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194349_a#47f0000.wav key=82 lokey=82 hikey=82amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194358_b47f0000.wav key=83 lokey=83 hikey=83amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop
+<region> sample=20091102194407_c57f0000.wav key=84 lokey=84 hikey=127amp_veltrack=20 lovel=0 hivel=127 loop_mode=no_loop

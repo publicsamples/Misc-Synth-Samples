@@ -6,6 +6,7 @@ A collection of unsorted, older patches. Sounds from the Concertmate MG1, SCI Pr
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Approx Size:** 800mb
 -   **[Part 2](https://github.com/publicsamples/Misc-Synth-Samples-pt2)**
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/misc1.html)
 
 **This collection requires you to download the audio seperately**
 

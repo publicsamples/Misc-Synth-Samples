@@ -8,7 +8,7 @@ A collection of unsorted, older patches. Sounds from the Concertmate MG1, SCI Pr
 -   **[Part 2](https://github.com/publicsamples/Misc-Synth-Samples-pt2)**
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/misc1.html)
 
-**[Download Audio](https://github.com/publicsamples/Arturia-Microbrute/releases/tag/1.0)**
+**[Download Audio](https://github.com/publicsamples/Misc-Synth-Samples/releases/tag/1.0)**
 
 # Loading
 
